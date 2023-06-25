@@ -1,0 +1,34 @@
+# Ignore virtual environment files
+venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore configuration files
+config.ini
+
+# Ignore test files
+test/
+tests/
+*.test
+
+# Ignore API documentation
+docs/
+
+# Ignore code snippets folder
+code_snippets/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+
