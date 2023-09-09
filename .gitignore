@@ -1,9 +1,6 @@
 # Ignore virtual environment files
 venv/
 
-# Ignore compiled Python files
-*.pyc
-
 # Ignore database files
 *.db
 
@@ -17,11 +14,6 @@ venv/
 # Ignore configuration files
 config.ini
 
-# Ignore test files
-test/
-tests/
-*.test
-
 # Ignore API documentation
 docs/
 
@@ -30,5 +22,8 @@ code_snippets/
 
 # Ignore __pycache__ directory
 __pycache__/
+*.pyc
+betsy.db
+betsy.log
 
 
